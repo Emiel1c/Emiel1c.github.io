@@ -1,0 +1,60 @@
+.left {
+    float: left;
+}
+
+body{
+    background-color: lightgrey;
+}
+h1{
+    text-align: center;
+}
+#homecontent{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+#left{
+    width:600px;
+    float: left;
+    overflow: hidden;
+}
+#right{
+    width: 540px;
+    float: left;
+    overflow: hidden;
+    padding: 10px;
+}
+img{
+    display: block;
+    overflow: hidden;
+    width:450px;
+    height: 350px;
+    margin: auto;
+}
+.page-header{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+#contactinfo{
+    text-align: center;
+}
+#foto{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+#contactlist li{
+    margin-bottom: 10px;
+}
+#link{
+    color: red;
+}
+.img-padding {
+    padding: 0 10px 10px 0;
+    width: 50%;
+    height: auto;
+}
